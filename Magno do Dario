@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vereador São José da Varginha</title>
+    <title>Magno do Dario São José da Varginha</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -52,8 +52,8 @@
                         <i class="fas fa-landmark text-blue-800 text-2xl"></i>
                     </div>
                     <div>
-                        <h1 class="text-xl md:text-2xl font-bold">Vereador</h1>
-                        <p class="text-sm">São José da Varginha</p>
+                        <h1 class="text-xl md:text-2xl font-bold">Magno Do Dario</h1>
+                        <p class="text-sm">Vereador de São José da Varginha</p>
                     </div>
                 </div>
                 
@@ -100,9 +100,9 @@
                             <img src="https://via.placeholder.com/300x400" alt="Foto do Vereador" class="rounded-lg shadow-md w-full max-w-xs mx-auto">
                         </div>
                         <div class="md:w-2/3 md:pl-8">
-                            <h2 class="text-2xl md:text-3xl font-bold mb-4">Vereador [Nome Completo]</h2>
+                            <h2 class="text-2xl md:text-3xl font-bold mb-4">João Magno de Almeida</h2>
                             <p class="mb-4 text-lg">Trabalhando por São José da Varginha</p>
-                            <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.</p>
+                            <p class="mb-6">Mandato pautado pela transparência, compromisso com a população e trabalho constante por uma cidade melhor. A atuação no Legislativo Municipal é guiada pela escuta das demandas da comunidade e pela busca de soluções reais nas áreas da saúde, educação, infraestrutura e inclusão social. Com diálogo, responsabilidade e presença ativa no dia a dia do povo, seguimos firmes na construção de um futuro mais justo e digno para todos.</p>
                             <div class="flex space-x-4">
                                 <a href="#" class="bg-white text-blue-700 px-6 py-2 rounded-lg font-semibold hover:bg-gray-100 transition">Conheça meus projetos</a>
                                 <a href="#" class="border-2 border-white text-white px-6 py-2 rounded-lg font-semibold hover:bg-blue-600 transition">Entre em contato</a>
@@ -990,6 +990,5 @@
             });
         }
     </script>
-</body> 
+</body>
 </html>
-Adicionando index.html
