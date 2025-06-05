@@ -96,7 +96,10 @@
             <img src="https://i.postimg.cc/gjqMxctc/5287c3ef-cb0f-4f87-afc8-64a23a18a818.jpg" alt="Vereador Magno do Dario" class="mx-auto rounded-lg shadow-xl mb-8 w-full max-w-md h-auto object-cover" onerror="this.onerror=null;this.src='https://placehold.co/600x400/0c549c/FFFFFF?text=Vereador+Magno+do+Dario';this.alt='Foto do Vereador Magno do Dario indisponível';">
             <h2 class="text-4xl font-bold text-primary mb-4">Bem-vindo ao site do Vereador Magno do Dario!</h2>
             <p class="text-lg text-gray-700 leading-relaxed max-w-2xl mx-auto">
-                Um espaço dedicado à transparência, comunicação e participação cidadã. Aqui você encontrará informações sobre meu mandato, projetos, indicações e como podemos trabalhar juntos por uma São José da Varginha cada vez melhor.
+                Seja bem-vindo ao site oficial do Vereador Magno do Dario!
+Este espaço foi criado especialmente para você, cidadão, que acredita na força da participação popular e no poder da política feita com seriedade, compromisso e transparência.
+Aqui, você acompanha de perto nosso trabalho, projetos de lei, ações comunitárias e as iniciativas que têm transformado nossa cidade.
+Juntos, podemos construir um futuro melhor para todos. Sua voz é a nossa prioridade!
             </p>
         </div>
     </section>
@@ -108,7 +111,7 @@
             <div class="flex flex-col md:flex-row items-center gap-8">
                 <div class="md:w-2/3">
                     <p class="text-gray-700 leading-relaxed mb-4">
-                        Filho de Dario José de Almeida e Maria das Graças de Almeida, João Magno de Almeida, conhecido carinhosamente como Magno do Dario, nasceu e cresceu em São José da Varginha. Com uma trajetória pautada pela dedicação à comunidade, Magno busca representar os anseios da população na Câmara Municipal, trabalhando com afinco por políticas públicas que promovam o desenvolvimento social, econômico e a qualidade de vida de todos os varginhenses.
+                        Filho de Dario de Almeida e Florenita Martins, João Magno, conhecido carinhosamente como Magno do Dario, nasceu e cresceu em São José da Varginha. Com uma trajetória pautada pela dedicação à comunidade, Magno busca representar os anseios da população na Câmara Municipal, trabalhando com afinco por políticas públicas que promovam o desenvolvimento social, econômico e a qualidade de vida de todos os varginhenses de São José.
                     </p>
                     <p class="text-gray-700 leading-relaxed mb-4">
                         Seu compromisso é com a escuta ativa dos cidadãos, a fiscalização responsável dos atos do executivo e a proposição de leis e ações que realmente façam a diferença no dia a dia das pessoas.
@@ -238,7 +241,7 @@
             <img src="https://i.postimg.cc/J7bY6K7w/626813-7f0b85d172eb408795c446b02be45138-mv2.png" alt="Brasão de São José da Varginha" class="h-12 w-auto mx-auto mb-4 rounded" onerror="this.onerror=null;this.src='https://placehold.co/80x80/FFFFFF/0c549c?text=Bras%C3%A3o';this.alt='Imagem do Brasão indisponível';">
             <p class="mb-2"><strong>Vereador Magno do Dario</strong></p>
             <p class="mb-2">São José da Varginha - MG</p>
-            <p class="text-sm mb-1">Gabinete: (A ser preenchido)</p>
+           
             <p class="text-sm mb-4">E-mail: <a href="mailto:magnododario@gmail.com" class="hover:underline">magnododario@gmail.com</a></p>
             <p class="text-xs">&copy; <span id="currentYear"></span> Vereador Magno do Dario. Todos os direitos reservados.</p>
             <p class="text-xs mt-1">Desenvolvido com ❤️</p>
